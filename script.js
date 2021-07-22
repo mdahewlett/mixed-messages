@@ -1,0 +1,1 @@
+console.log("The least random message of this project")
